@@ -10,8 +10,7 @@ Projeto desenvolvido no curso de Vue da DIO onde foi criado uma Pokedex em Vue.j
 
 ## Demonstração
 
-Para verificar como ficou o projeto acesse o [LINK]([https://github.com/matiassingers/awesome-readme](https://pokedex-nu-livid.vercel.app))
-
+Para verificar como ficou o projeto acesse o [LINK](https://pokedex-nu-livid.vercel.app)
 
 ## Rodando localmente
 
