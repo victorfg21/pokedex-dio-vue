@@ -1,24 +1,41 @@
-# pokedex-dio-vue
 
-## Project setup
-```
-npm install
+# Pokedex Vue.js
+
+Projeto desenvolvido no curso de Vue da DIO onde foi criado uma Pokedex em Vue.js e SCSS utilizando a PokeAPI.
+
+
+## Stack utilizada
+
+- Vue.js
+- SCSS
+
+## Demonstração
+
+Para verificar como ficou o projeto acesse o link -> https://pokedex-nu-livid.vercel.app
+
+
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/victorfg21/pokedex-dio-vue.git
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+Instale as dependências
+
+```bash
+  npm install
 ```
 
-### Compiles and minifies for production
-```
-npm run build
+Inicie o servidor
+
+```bash
+  npm run serve
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
